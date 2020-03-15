@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+        <meta charset="UTF-8">
+        <title>Заголовок веб-страницы</title>
+        <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+      <div class="wrap">
+          <p>Абзац веб-страницы</p>
+      </div>
+  </body>
+</html>
