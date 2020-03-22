@@ -1,13 +1,15 @@
-<!doctype html>
-<html>
-  <head>
-        <meta charset="UTF-8">
-        <title>Заголовок веб-страницы</title>
-        <link rel="stylesheet" href="./style.css">
-  </head>
-  <body>
-      <div class="wrap">
-          <p>Абзац веб-страницы</p>
-      </div>
-  </body>
-</html>
+a {
+  color: black;
+  }
+  body {
+  font-family: "Arial";
+  }
+  p {
+  display: inline-block;
+  max-width: 25%;
+  text-align: justify;
+  }
+  table {
+  text-align: justify;
+  max-width: 50%;
+  }
