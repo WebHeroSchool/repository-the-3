@@ -1,2 +1,6 @@
-header {font: "Times New Roman"}
-p {font: Arial}
+body {
+    font-family: Arial;
+}
+.shrift__title {
+    font-family: "Times New Roman";
+}
