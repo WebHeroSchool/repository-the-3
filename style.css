@@ -1,6 +1,6 @@
 body {
-    font-family: Arial;
+    font-family: 'Josefin Sans', sans-serif;
 }
-.shrift__title {
-    font-family: "Times New Roman";
+head {
+    font-family: 'Playfair Display', serif;
 }
